@@ -1,0 +1,16 @@
+*.iml
+*.ipr
+*.iws
+target
+.classpath
+.project
+.settings/*
+.idea
+.gradle
+classes
+/bin
+build/
+/.settings/
+/.metadata/
+/.packages
+/.dart_tool/
