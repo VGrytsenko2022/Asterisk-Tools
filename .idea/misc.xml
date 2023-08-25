@@ -6,7 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/asterisk-tools-core/pom.xml" />
         <option value="$PROJECT_DIR$/asterisk-java-at/pom.xml" />
+        <option value="$PROJECT_DIR$/asterisk-tools-ami/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/asterisk-tools-ami/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="17" project-jdk-type="JavaSDK">

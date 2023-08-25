@@ -5,8 +5,8 @@
     <!-- Project from https://start.vaadin.com/project/5a2202f4-f52e-4f37-9faf-d85dffc449dd -->
     <groupId>ua.vg.at.core</groupId>
     <artifactId>asterisk-tools-core</artifactId>
-    <name>asterisktools</name>
-    <version>1.0-SNAPSHOT</version>
+    <name>asterisk-tools-core</name>
+    <version>1.0-2</version>
     <packaging>jar</packaging>
 
     <properties>

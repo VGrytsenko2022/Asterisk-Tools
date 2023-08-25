@@ -10,9 +10,13 @@
         <module name="asterisk-tools-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="asterisk-tools-ami" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="asterisk-tools-ami" options="-parameters" />
       <module name="asterisk-tools-core" options="-parameters" />
     </option>
   </component>

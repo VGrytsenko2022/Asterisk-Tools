@@ -6,10 +6,6 @@
     <artifactId>asterisk-java-at</artifactId>
     <version>3.39.0</version>
 
-    <name>Asterisk-Java</name>
-    <description>The free Java library for Asterisk PBX integration.</description>
-    <url>https://github.com/asterisk-java/asterisk-java</url>
-    <inceptionYear>2004</inceptionYear>
 
     <licenses>
         <license>
