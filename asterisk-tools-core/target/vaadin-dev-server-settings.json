@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/./frontend/generated/jar-resources",
+  "staticOutput": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\JavaProjects\\Asterisk-Tools\\asterisk-tools-core\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\JavaProjects\\Asterisk-Tools\\asterisk-tools-core\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/src/main/dev-bundle/config",
+  "jarResourcesFolder": "D:/JavaProjects/Asterisk-Tools/asterisk-tools-core/./frontend/generated/jar-resources",
+  "themeName": "asterisktools",
+  "clientServiceWorkerSource": "D:\\JavaProjects\\Asterisk-Tools\\asterisk-tools-core\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
