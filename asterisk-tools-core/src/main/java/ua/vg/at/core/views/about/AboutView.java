@@ -38,7 +38,9 @@ public class AboutView extends VerticalLayout {
     }
 
     private void openPaypal() {
-        getUI().get().getPage().open("https://www.paypal.com/donate/?hosted_button_id=GRQBC554NA356", "_blank");
+        if (getUI().isPresent()) {
+            getUI().get().getPage().open("https://www.paypal.com/donate/?hosted_button_id=GRQBC554NA356", "_blank");
+        }
     }
 
 }
